@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:bc13fe,100:39ff14&section=header"/>
 
-<br>
-
 <div align="center">
   <img src="https://i.imgur.com/r3OjXge.png" height="150"/>
 </div>
@@ -18,8 +16,6 @@
       <i>status: ▓▓▒▒░░ decoding reality...</i>
   </samp>
 </div>
-
-<br>
 
 <div align="center">
   
