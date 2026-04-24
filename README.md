@@ -12,8 +12,6 @@
   <samp>
       <br>
       oieee.. eu sou a <b>nekroberoth</b> 💜💚
-      <br>
-      <i>status: ▓▓▒▒░░ decoding reality...</i>
   </samp>
 </div>
 
@@ -47,11 +45,9 @@
 
 <div align="center">
 
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 
 </div>
 
