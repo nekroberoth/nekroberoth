@@ -55,13 +55,6 @@
 
 </div>
 
-<br><br>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nekroberoth&color=39ff14"/>
-</div>
 
 <br>
 
