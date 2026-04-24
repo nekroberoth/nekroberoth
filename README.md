@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/nekroberoth-GLITCH_MODE-000000?style=for-the-badge&labelColor=bc13fe&color=39ff14"/>
+  <img src="https://img.shields.io/badge/nekroberoth-000000?style=for-the-badge&labelColor=bc13fe&color=39ff14"/>
 </div>
 
 <br><br>
