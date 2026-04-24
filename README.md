@@ -1,96 +1,109 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:bc13fe,100:39ff14&section=header"/>
-
-<div align="center">
-
-<img src="https://i.imgur.com/FLkzH0A.png" height="140"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:bc13fe,100:39ff14&section=header"/>
 
 <br>
 
-<b>`プログラマ // cyber soul`</b>
+<div align="center">
+  <img align="center" height="150" src="https://i.imgur.com/FLkzH0A.png" />
+</div>
 
-<samp>
-yo... eu sou o <b>nekroberoth</b> 💜💚 <br>
-dev em construção + artista perdido no código <br>
-</samp>
+<div align="center">
+  
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Oieee! Eu sou o <b>nekroberoth</b> 💜💚
+  </samp>
+</div>
 
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=39ff14&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+developer;I+love+design;Welcome+to+my+profile!" />
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=welcome+to+my+chaotic+world;coding+and+creating...;sometimes+it+works+%F0%9F%98%AD;cyberpunk+vibes+only" />
+  <img src="https://img.shields.io/badge/nekroberoth-%E2%99%A1-0d0d0d?style=flat&logoColor=39ff14&labelColor=bc13fe" />
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nekroberoth&rank_icon=github&show_icons=true&bg_color=000000&title_color=39ff14&icon_color=bc13fe&text_color=ffffff&border_color=bc13fe">
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekroberoth&layout=compact&bg_color=000000&title_color=39ff14&text_color=ffffff&border_color=bc13fe">
+  
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nekroberoth&theme=github_dark"/>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
 </div>
 
 <br>
-
-## 💻 about me
-
-🎓 estudante de desenvolvimento  
-🎨 designer nas horas vagas  
-🧠 tentando sobreviver ao código  
-🌎 Brasil  
-
 <br>
 
-## ⚡ tech stack
-
-<div align="center">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-</div>
-
-<br>
-
-## 📊 stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nekroberoth&show_icons=true&bg_color=000000&title_color=39ff14&icon_color=bc13fe&text_color=ffffff&border_color=bc13fe">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekroberoth&layout=compact&bg_color=000000&title_color=39ff14&text_color=ffffff&border_color=bc13fe">
-
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nekroberoth&theme=github_dark"/>
-</div>
-
-<br>
-
-## 🎧 vibe
-
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31&cover_image=true&theme=novatorem&bar_color=39ff14&bar_color_cover=false"/>
-</div>
-
-<br>
-
-## 🌐 social
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/email-bc13fe?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
-[![Instagram](https://img.shields.io/badge/instagram-39ff14?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/)
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-bc13fe?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-
-</div>
-
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=nekroberoth&style=flat-square&color=39ff14"/>
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-bc13fe?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:seuemail@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-39ff14?style=for-the-badge&logo=instagram&logoColor=000)](https://instagram.com/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-bc13fe?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/)
+  
+</div>
+
+<div align="center">
+  <p align="center">
+      <samp>
+        ♡ <a href="#">link1</a> ⊹
+        <a href="#">link2</a> ⊹
+        <a href="#">link3</a> ⊹
+        <a href="#">link4</a> ♡
+      </samp>
+  </p>
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:bc13fe,100:39ff14&section=footer"/>
+</details>
+
+##
+
+<br>
+
+<div align="center">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nekroberoth&style=flat-square&color=39ff14" />
+  </p> 
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:bc13fe,100:39ff14&section=footer"/>
