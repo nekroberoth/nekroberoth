@@ -3,21 +3,17 @@
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/FLkzH0A.png" height="150"/>
+  <img src="https://i.imgur.com/r3OjXge.png" height="150"/>
 </div>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="140"/>
 
 </div>
 
 <div align="center">
   
-  <b>`プログラマ // glitch aesthetic`</b>
+  <b>`プログラマ`</b>
   <samp>
       <br>
-      yo... eu sou o <b>nekroberoth</b> 💜💚
+      oieee.. eu sou a <b>nekroberoth</b> 💜💚
       <br>
       <i>status: ▓▓▒▒░░ decoding reality...</i>
   </samp>
@@ -64,14 +60,6 @@
 </div>
 
 <br><br>
-
-## 🎧 música (opção simples que FUNCIONA)
-
-<div align="center">
-
-[![Spotify](https://img.shields.io/badge/abrir%20spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
-
-</div>
 
 <br>
 
