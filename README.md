@@ -13,7 +13,7 @@
   <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Kamilly Medino</b>
+      Oieee! Eu sou a <b>Rack</b>
   </samp>
 </div>
 
